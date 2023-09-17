@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1017685778695",
+    "project_id": "justsmile2",
+    "storage_bucket": "justsmile2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017685778695:android:0d5ae18445c4b32d47e5a2",
+        "android_client_info": {
+          "package_name": "just.smile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaOXmE8Eirt5GWIQj2CIsabn1Bm8ogMa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
